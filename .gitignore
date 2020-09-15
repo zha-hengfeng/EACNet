@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pth
+dataset/cityscapes/*/*
+dataset/camvid/*/*.*
+.idea/
+result/
+checkpoint/

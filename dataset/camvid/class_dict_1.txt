@@ -1,0 +1,11 @@
+Building,128, 0, 0
+Tree,128, 128, 0
+Sky,128, 128, 128
+Car,64, 0, 128
+SignSymbol,192, 128, 128
+Road,128, 64, 128
+Pedestrian,64, 64, 0
+Fence,64, 64, 128
+Column_Pole,192, 192, 128
+Sidewalk,0, 0, 192
+Bicyclist,0,128, 192
